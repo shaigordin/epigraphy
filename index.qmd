@@ -1,11 +1,12 @@
 ---
 title: "אפיגרפיה שמית מערבית תשפ״ז"
-subtitle: "1230510-1 · West-Semitic Epigraphy"
-image: header.svg
+subtitle: "West-Semitic Epigraphy"
+image: mesha-stele.jpg
+fig-cap: "^[מצבת מישע מלך מואב (המאה ה-9 לפנה״ס), מוזיאון הלובר, AO 5066. התמונה מתוך מצגת הקורס [״ראשית ישראל: חורבת קיאפה, עבר הירדן וכונתילת עג׳רוד״](https://drive.google.com/file/d/1-Ie7kesTvLQpMN5_q8WC-LIkymAQSOWE/view?usp=sharing).]"
 about:
-  template: jolla
+  template: marquee
   image-shape: rounded
-  image-width: 14em
+  image-width: 11em
 ---
 
 ::: callout-warning
