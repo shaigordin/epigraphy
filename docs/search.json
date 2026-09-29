@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "חובות ומטלות הקורס",
+    "section": "",
+    "text": "הקורס מורכב משלוש יחידות (ראו תכנית הקורס). כל המטלות נעשות בזוגות, וכל מטלה מסומנת ברמת שימוש ב-AI לפי מדיניות הקורס."
+  },
+  {
+    "objectID": "assignments/index.html#דרישות-הקורס",
+    "href": "assignments/index.html#דרישות-הקורס",
+    "title": "חובות ומטלות הקורס",
+    "section": "דרישות הקורס",
+    "text": "דרישות הקורס\n\nהשתתפות בפעילויות המקוונות\nקריאת המאמרים (קריאת החובה מסומנת ב-* ברשימת הספרות)\nעבודה מסכמת בזוגות: מהדורה דיגיטלית זעירה של כתובת אחת, כולל שיחת הגנה קצרה ורפלקציה אישית"
+  },
+  {
+    "objectID": "assignments/active-participation.html",
+    "href": "assignments/active-participation.html",
+    "title": "השתתפות פעילה",
+    "section": "",
+    "text": "משקל: 30% · בזוגות · ארבע פעילויות במודל, בשבועות שבהם אין שיעור. כל פעילות מסתיימת בתוצר קטן שאפשר לבדוק.\n\n\n\n\n1. כתב וכתיבה במזרח הקדום (05/11/26) · 1\nמשרטטים ביד חמישה סימני יתדות ואת האותיות האלפביתיות שהתפתחו מהם, ומעלים צילום של הדף. בלי כלי AI ובלי העתקה מתמונה.\n\n\n2. המכונה שמנחשת אותיות (19/11/26) · 5\n\nבדיקת עובדות למודל: מבקשים ממודל שפה סיכום של Höflmayer et al. 2021, בודקים כל טענה בסיכום מול ה-PDF עם מספר עמוד, ונותנים למודל ציון.\nהמכונה שמנחשת אותיות: לוקחים שורה מכתובת שלמדנו, ״מוחקים״ 3–5 אותיות, מבקשים מהמודל להשלים, ומודדים כמה מההשלמות נכונות. קראו לפני כן את המבוא של Assael et al. 2022.\n\nמגישים טבלה קצרה ואת הקישורים לשיחות.\n\n\n3. ראשית האלפבית (03/12/26) · 2\nקוראים את Schwartz 2021 על הגלילים מאום אל-מרה, וכותבים בפורום הודעה של כ-200 מילה: ״מה היה משכנע אתכם שמדובר בכתב אלפביתי?״ ואחר כך מגיבים להודעה של זוג אחר.\n\n\n4. ראשית ממלכת ישראל באפיגרפיה (31/12/26) · 1\nמקבלים תצלום של חרס שומרון אחד. מתעתקים ומתרגמים אותו לבד, ורק אחר כך משווים לאחיטוב ומסמנים מה קראתם אחרת.\n\n\nהערכה\nהציון על כל פעילות הוא על השתתפות והשקעה, לא על ״תשובה נכונה״. פעילות שלא הוגשה במועד לא תיבדק."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "אפיגרפיה שמית מערבית תשפ״ז",
+    "section": "",
+    "text": "מדיניות בינה מלאכותית\n\n\n\nבקורס מותר לעבוד עם כלי AI, אבל רק ברמה שנקבעה לכל משימה, ורק עם תיעוד מלא. לפני כל הגשה קראו את עמוד מדיניות ה-AI."
+  },
+  {
+    "objectID": "index.html#תקציר-הקורס",
+    "href": "index.html#תקציר-הקורס",
+    "title": "אפיגרפיה שמית מערבית תשפ״ז",
+    "section": "תקציר הקורס",
+    "text": "תקציר הקורס\nבקורס נסקור את השפות והכתבים של המזרח התיכון הקדום, מאיראן במזרח ועד יוון במערב, ומאנטוליה בצפון ועד חצי האי ערב בדרום. נלמד מהי אפיגרפיה: חקר הכתובות העתיקות, התפתחותן והשימוש בהן ככלי לשחזור היסטורי וחברתי. נסקור את המקורות החשובים ביותר בכנענית, בעברית עתיקה, בארמית ובשפות הקרובות להן, המשלימים את הבנת ההיסטוריה המקראית וההיסטוריה העתיקה של ארץ ישראל ושכנותיה באלף השני והראשון לפנה״ס."
+  },
+  {
+    "objectID": "index.html#תוצרי-הלמידה",
+    "href": "index.html#תוצרי-הלמידה",
+    "title": "אפיגרפיה שמית מערבית תשפ״ז",
+    "section": "תוצרי הלמידה",
+    "text": "תוצרי הלמידה\nאכדית, עברית, ארמית ושכנותיהן, שפות שמיות ואחרות שנפוצו במזרח התיכון הקדום, הועלו על הכתב במגוון דרכים. בסוף הקורס התלמידים:\n\nינתחו את התפתחות האלפבית הקדום\nיכירו את ההיסטוריה של התרבויות שכתבו באלפבית בתקופות הברונזה והברזל\nיתנסו בקריאה ובניתוח של כתובות בכלים מסורתיים ודיגיטליים\nיתרגלו תיארוך כתובות לפי סימני הכתב, הכנת מהדורות דיגיטליות, וניתוח תמונות ברזולוציה גבוהה בכלים חישוביים ובבינה מלאכותית"
+  },
+  {
+    "objectID": "index.html#איך-עובדים-בקורס",
+    "href": "index.html#איך-עובדים-בקורס",
+    "title": "אפיגרפיה שמית מערבית תשפ״ז",
+    "section": "איך עובדים בקורס",
+    "text": "איך עובדים בקורס\nהעבודה בקורס נעשית בזוגות. בכל שיעור בכיתה יש מקרה בוחן מהמחקר של השנים האחרונות, למשל המסרק מלכיש או הוויכוח על לוחית עיבל, ובארבע פעילויות במודל מתרגלים קריאה, שרטוט וביקורת. חלק מהמשימות נעשות ביד ובעין בלבד, וחלקן בעבודה עם מודלי שפה. הכללים המדויקים נמצאים בעמוד מדיניות AI."
+  },
+  {
+    "objectID": "ai-policy.html",
+    "href": "ai-policy.html",
+    "title": "מדיניות שימוש בבינה מלאכותית",
+    "section": "",
+    "text": "בקצרה\n\n\n\nבקורס הזה מותר, ולפעמים אף נדרש, לעבוד עם כלי בינה מלאכותית כמו ChatGPT, ‏Claude או Gemini. לכל משימה נקבעה רמת שימוש מותרת, מ-1 (בלי AI) ועד 5 (AI כנושא המחקר). בכל משימה שבה מותר AI חובה לתעד את השימוש.\nשימוש שלא דווח, או שימוש מעבר לרמה שנקבעה למשימה, ייחשב הפרה של טוהר המידות, והעבודה תיפסל."
+  },
+  {
+    "objectID": "ai-policy.html#סולם-הרמות-aias",
+    "href": "ai-policy.html#סולם-הרמות-aias",
+    "title": "מדיניות שימוש בבינה מלאכותית",
+    "section": "סולם הרמות (AIAS)",
+    "text": "סולם הרמות (AIAS)\nהמדיניות מבוססת על סולם ה-AIAS (Perkins et al. 2024), שמגדיר חמש רמות של שימוש ב-AI במשימות אקדמיות. זה אותו סולם בכל ארבעת הקורסים שלי בסמסטר, כך שמי שלומד/ת יותר מקורס אחד פוגש/ת את אותם כללים.\n\n\n\n\n\n\n\n\nרמה\nשם\nמה מותר\n\n\n\n\n1\nבלי בינה מלאכותית\nאת המשימה עושים לבד, בלי שום כלי AI. בדרך כלל מדובר במשימה של יד ועין, כמו שרטוט, קריאה מתצלום או בוחן.\n\n\n2\nAI לתכנון ולסיעור מוחות\nמותר להשתמש ב-AI כדי לחשוב על רעיונות, לבחור נושא או לתכנן מבנה. הטקסט שמוגש כתוב כולו בידיכם.\n\n\n3\nAI לשיפור עבודה שלכם\nמותר להיעזר ב-AI בניסוח, בתרגום או בסיכום של חומר שכבר קראתם. הרעיונות, הטיעון והמקורות הם שלכם.\n\n\n4\nAI כשותף מלא, עם ביקורת על הפלט\nמותר להשתמש ב-AI בכל שלבי העבודה, בתנאי שבודקים כל טענה מול המקורות ומתעדים את התהליך ביומן עבודה.\n\n\n5\nAI כנושא המחקר\nה-AI עצמו הוא מושא הבדיקה: בוחנים מה המודל יודע, איפה הוא טועה ולמה."
+  },
+  {
+    "objectID": "ai-policy.html#הרמה-של-כל-משימה-בקורס",
+    "href": "ai-policy.html#הרמה-של-כל-משימה-בקורס",
+    "title": "מדיניות שימוש בבינה מלאכותית",
+    "section": "הרמה של כל משימה בקורס",
+    "text": "הרמה של כל משימה בקורס\n\n\n\nמשימה\nרמה\nמה זה אומר כאן\n\n\n\n\nהשתתפות פעילה 1 (05/11): שרטוט סימנים\n1\nשרטוט ביד על נייר, בלי שום כלי.\n\n\nהשתתפות פעילה 2 (19/11): המכונה שמנחשת אותיות\n5\nהמודל הוא מושא הבדיקה: בודקים את הסיכום שלו מול ה-PDF, ומודדים כמה מההשלמות שלו לאותיות חסרות נכונות.\n\n\nהשתתפות פעילה 3 (03/12): אום אל-מרה\n2\nמותר להיעזר ב-AI כדי לחשוב על טיעונים, אבל ההודעה בפורום כתובה בידיכם.\n\n\nהשתתפות פעילה 4 (31/12): חרס שומרון\n1\nתעתיק ותרגום מהתצלום, לבד, לפני שפותחים את אחיטוב.\n\n\nעבודה מסכמת: מהדורה דיגיטלית\n4\nשימוש מלא עם יומן עבודה וקישורים לשיחות, חוץ מהשרטוט.\n\n\nשרטוט הכתובת בעבודה המסכמת\n1\nהשרטוט נעשה ביד, מול התצלום.\n\n\nפרק ״קריאת המכונה״ בעבודה המסכמת\n5\nהמודל מקבל את התצלום ומנסה לקרוא ולתרגם, ואתם מנתחים את הטעויות שלו.\n\n\nרפלקציה אישית ושיחת הגנה\n1\nכל אחד/ת כותב/ת לבד, בלי AI, ומדבר/ת בשם עצמו/ה בשיחה."
+  },
+  {
+    "objectID": "ai-policy.html#מה-חובה-לתעד",
+    "href": "ai-policy.html#מה-חובה-לתעד",
+    "title": "מדיניות שימוש בבינה מלאכותית",
+    "section": "מה חובה לתעד",
+    "text": "מה חובה לתעד\nבכל משימה ברמה 2 ומעלה מגישים, יחד עם העבודה:\n\nיומן עבודה: קישורים לשיחות עם המודלים (share link), או צילומי מסך כשאין אפשרות לשתף. לכל שיחה: מה ביקשתם, מה קיבלתם, ומה בדקתם.\nביקורת על הפלט: אילו טענות של המודל בדקתם מול המקורות, עם מספר עמוד או שורה, ומה מצאתם שגוי או מומצא.\nהצהרת שימוש בסוף העבודה, בנוסח הבא:\n\n\nהצהרת שימוש בבינה מלאכותית: השתמשנו ב-[שם הכלי והגרסה] לצורך [תכנון / ניסוח / תרגום / ניתוח / …] בחלקים […]. קישורים לשיחות: […]. בדקנו את הפלט כך: […]. כל מקור שמופיע ברשימה הביבליוגרפית נבדק על ידינו.\n\nהיומן הוא חלק מהעבודה ומקבל ציון. יומן טוב מראה חשיבה ביקורתית, ולא רק רשימת פרומפטים."
+  },
+  {
+    "objectID": "ai-policy.html#איך-עובדים-עם-ai-בקורס",
+    "href": "ai-policy.html#איך-עובדים-עם-ai-בקורס",
+    "title": "מדיניות שימוש בבינה מלאכותית",
+    "section": "איך עובדים עם AI בקורס",
+    "text": "איך עובדים עם AI בקורס\n\nתהליך ולא רק תוצר. מה שמעניין אותי הוא איך הגעתם לתשובה, ולכן היומן חשוב כמו התוצר.\nהמודל כיריב. לעתים קרובות נבקש מהמודל את הביקורת החזקה ביותר על מאמר, או את ה״תיאום״ החלק ביותר בין מקורות, ואתם תצטרכו להפריך אותו.\nאימות מול המקור. כל טענה של מודל נבדקת מול עמוד או שורה במאמר, בתעתיק או בתצלום. שיעור הטעויות שמצאתם הוא ממצא בפני עצמו.\nתפקידים בזוג. העבודה בקורס נעשית בזוגות. אחד/ת ״מפעיל/ה״ את המודל והשני/ה ״מבקר/ת״ מול המקורות, ובאמצע מחליפים. בסוף כל אחד/ת כותב/ת רפלקציה אישית קצרה (כ-300 מילה), וכך יש גם ציון אישי.\nשיחת הגנה קצרה. על העבודה המסכמת מקיימים שיחה של כ-10 דקות (בזום או בכיתה) עם כל זוג."
+  },
+  {
+    "objectID": "ai-policy.html#מה-אסור",
+    "href": "ai-policy.html#מה-אסור",
+    "title": "מדיניות שימוש בבינה מלאכותית",
+    "section": "מה אסור",
+    "text": "מה אסור\n\nלהגיש טקסט שנכתב בידי מודל כאילו כתבתם אותו, בלי לסמן ולתעד.\nלהשתמש ב-AI במשימה שהוגדרה כרמה 1.\nלהגיש הפניות ביבליוגרפיות בלי לבדוק שהן קיימות ושהן אומרות את מה שכתוב. מודלים ממציאים מקורות, ומקור מומצא בעבודה ייחשב כהעתקה.\nלהעלות לכלי AI חומרים שקיבלתם בקורס ושאינם פתוחים לציבור (למשל סריקות של ספרים), אלא אם נאמר אחרת."
+  },
+  {
+    "objectID": "ai-policy.html#שאלות",
+    "href": "ai-policy.html#שאלות",
+    "title": "מדיניות שימוש בבינה מלאכותית",
+    "section": "שאלות",
+    "text": "שאלות\nאם לא ברור אם שימוש מסוים מותר, שאלו לפני ההגשה במייל shaigo@ariel.ac.il או בפורום הקורס. שאלה לפני ההגשה אף פעם לא תפגע בציון."
+  },
+  {
+    "objectID": "ai-policy.html#מקורות",
+    "href": "ai-policy.html#מקורות",
+    "title": "מדיניות שימוש בבינה מלאכותית",
+    "section": "מקורות",
+    "text": "מקורות\n\n\nMollick, Ethan, and Lilach Mollick. 2023. “Assigning AI: Seven Approaches for Students, with Prompts.” arXiv:2306.10052. https://arxiv.org/abs/2306.10052.\n\n\nPerkins, Mike, Leon Furze, Jasper Roe, and Jason MacVaugh. 2024. “The Artificial Intelligence Assessment Scale (AIAS): A Framework for Ethical Integration of Generative AI in Educational Assessment.” Journal of University Teaching and Learning Practice 21 (6). https://open-publishing.org/journals/index.php/jutlp/article/view/810."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "תכנית הוראה מפורטת",
+    "section": "",
+    "text": "כל המפגשים בכיתה הם פרונטליים. בשבועות של פעילות בבית אין שיעור. רמת השימוש המותרת בבינה מלאכותית בכל משימה מופיעה בעמוד מדיניות AI."
+  },
+  {
+    "objectID": "about.html#יחידה-1-כתב-וכתיבה-במזרח-הקדום",
+    "href": "about.html#יחידה-1-כתב-וכתיבה-במזרח-הקדום",
+    "title": "תכנית הוראה מפורטת",
+    "section": "יחידה 1: כתב וכתיבה במזרח הקדום",
+    "text": "יחידה 1: כתב וכתיבה במזרח הקדום\n\n\n\n\n\n\n\n\n\n\n\n\n\nתאריך\nסוג שיעור\nמצגת\nנושאי השיעור\nקריאה\nפעילות ומקרה בוחן\n\n\n\n\n22/10/26\nהרצאה + פעילות בכיתה\nחלק א׳\nחלק ב׳\nכתב וכתיבה במזרח התיכון הקדום\nהאלו, תשע״א; ירדני, תשנ״א\nהיכרות, חלוקה לזוגות והסבר על מדיניות ה-AI\n\n\n29/10/26\nהרצאה + פעילות בכיתה\nתפוצת כתב היתדות\nתפוצת כתב היתדות ובתי הספר לסופרים\nSass 2005a (רשות)\n\n\n\n05/11/26\nפעילות במודל (אין שיעור)\n\nהשתתפות פעילה 1: כתב וכתיבה במזרח הקדום\n\nשרטוט ביד של חמישה סימני יתדות ושל האותיות שהתפתחו מהם, וצילום מהנייר (AIAS 1)"
+  },
+  {
+    "objectID": "about.html#יחידה-2-ראשית-האלפבית",
+    "href": "about.html#יחידה-2-ראשית-האלפבית",
+    "title": "תכנית הוראה מפורטת",
+    "section": "יחידה 2: ראשית האלפבית",
+    "text": "יחידה 2: ראשית האלפבית\n\n\n\n\n\nתאריך\nסוג שיעור\nמצגת\nנושאי השיעור\nקריאה\nפעילות ומקרה בוחן\n\n\n\n\n12/11/26\nהרצאה + פעילות בכיתה\nראשית האלפבית\nראשית האלפבית והכתב הפרוטו-כנעני\nSass 2005b; נוה, תשמ״ב; Höflmayer et al. 2021; Vainstub et al. 2022\nמקרה בוחן: המסרק נגד כינים. זוגות מנסים לזהות אותיות בתמונת המסרק מלכיש בעזרת טבלת האלפבית הקדום, ורק אחר כך מקבלים את הקריאה\n\n\n19/11/26\nפעילות במודל (אין שיעור)\n\nהשתתפות פעילה 2: ניתוח מאמר מחקרי באמצעות בינה מלאכותית\nHöflmayer et al. 2021; Assael et al. 2022; Sommerschield et al. 2023\n״בדיקת עובדות למודל״: סיכום של Höflmayer 2021 נבדק טענה אחר טענה מול ה-PDF (AIAS 3). ובנוסף המכונה שמנחשת אותיות: מוחקים 3–5 אותיות משורה בכתובת מוכרת ומודדים כמה מההשלמות של המודל נכונות\n\n\n26/11/26\nהרצאה + פעילות בכיתה\nבין אוגרית לפניקיה\nהאלפבית בין אוגרית לפניקיה\nנוה, תשמ״ב (הכתב השמי מערבי); פסברג, תשנ״ג\n\n\n\n03/12/26\nפעילות במודל (אין שיעור)\n\nהשתתפות פעילה 3: ראשית האלפבית\nSchwartz 2021\n״מה היה משכנע אתכם?״ על הסימנים מאום אל-מרה (סביב 2400 לפנה״ס), בפורום, עם תגובה לזוג אחר (AIAS 2)\n\n\n10/12/26\nאין שיעור (חג)"
+  },
+  {
+    "objectID": "about.html#יחידה-3-כתובות-מממלכות-ישראל-ויהודה",
+    "href": "about.html#יחידה-3-כתובות-מממלכות-ישראל-ויהודה",
+    "title": "תכנית הוראה מפורטת",
+    "section": "יחידה 3: כתובות מממלכות ישראל ויהודה",
+    "text": "יחידה 3: כתובות מממלכות ישראל ויהודה\n\n\n\n\n\n\n\n\n\n\n\n\n\nתאריך\nסוג שיעור\nמצגת\nנושאי השיעור\nקריאה\nפעילות ומקרה בוחן\n\n\n\n\n17/12/26\nהרצאה + פעילות בכיתה\nראשית הברזל\nמדינות ראשונות\nמפרוטו-כתב לכתב ״לאומי״: ראשית הברזל בדרום הלבאנט\nRollston et al. 2021 (ירובעל); רשות: Millard 2011; Rollston 2011; Finkelstein & Sass 2013\nמקרה בוחן: ירובעל על קנקן. שם של שופט מקראי על שבר כד מהתקופה ״הנכונה״: האם מצאנו את גדעון? שם מעיד על מנהג מתן שמות, לא על דמות\n\n\n24/12/26\nהרצאה + פעילות בכיתה\nישראל ויהודה במאות 8–7\nסקירת טקסטים וכתובות מבית ראשון\nאחיטוב, תשס״ה; Rollston 2005; Stripling et al. 2023; Haughwout 2024\nמקרה בוחן: זייפן בשוק. קריאה עיוורת של כתובת אמיתית, של ״כתובת״ שיש בה רק שריטות ושל העתק מודרני, לפי ארבעת הקריטריונים של Rollston 2005 (כולל לוחית עיבל)\n\n\n31/12/26\nפעילות במודל (אין שיעור)\n\nהשתתפות פעילה 4: ראשית ממלכת ישראל באפיגרפיה\nאחיטוב, תשס״ה (חרסי שומרון); Langlois 2019\nתעתיק ותרגום של חרס שומרון אחד מתצלום, לפני שמסתכלים באחיטוב (AIAS 1); RTI כשיטה, בעזרת מצבת מישע\n\n\n07/01/27\nהרצאה + פעילות בכיתה\nתפורסם לפני השיעור\nסיכום: כתיבה, קריאה ואוריינות בישראל ויהודה בראי המאה ה-21\nכהן, קתדרה 152; Faigenbaum-Golovin et al. 2020; Shaus et al. 2020; רשות: Popović et al. 2021, 2025\nמקרה בוחן: כמה ידעו לכתוב בערד? זוגות משווים צורות של אותה אות בשני חרסים ומחליטים ״אותה יד או לא״, ורק אחר כך רואים את תוצאת האלגוריתם"
+  },
+  {
+    "objectID": "literature.html",
+    "href": "literature.html",
+    "title": "ביבליוגרפיה ומקורות",
+    "section": "",
+    "text": "קריאת חובה מסומנת ב-*. פריטים שנוספו השנה מסומנים ב-🆕. כל התוכן יהיה זמין להורדה במודל במהלך הקורס."
+  },
+  {
+    "objectID": "literature.html#מקורות-מקוונים",
+    "href": "literature.html#מקורות-מקוונים",
+    "title": "ביבליוגרפיה ומקורות",
+    "section": "מקורות מקוונים",
+    "text": "מקורות מקוונים\n\nWest Semitic Research Project\nInscriptiFact: מאגר תמונות וטקסטים\nAchemenet: טקסטים, ארכיאולוגיה ומשאבים מהתקופה האחמנית"
+  },
+  {
+    "objectID": "literature.html#כתב-וכתיבה-במזרח-התיכון-הקדום",
+    "href": "literature.html#כתב-וכתיבה-במזרח-התיכון-הקדום",
+    "title": "ביבליוגרפיה ומקורות",
+    "section": "כתב וכתיבה במזרח התיכון הקדום",
+    "text": "כתב וכתיבה במזרח התיכון הקדום\n\n*ו׳ האלו, ״ספרות המקרא וספרות המזרח הקדום: הקדמה כללית״, בתוך: צ׳ טלשיר (עורכת), ספרות המקרא: מבואות ומחקרים, כרך שני. ירושלים, תשע״א, 457–470.\n*ע׳ ירדני, ״חומרי הכתיבה״ ו״תנועת היד וכיווני משיכות בכתיבה העברית״, בתוך: ספר הכתב העברי. ירושלים, תשנ״א, 113–128.\nSass, B. 2005a. “The Genesis of the Alphabet and Its Development in the Second Millennium B.C.: Twenty Years Later.” De Kemi à Birit Nari 2: 147–166."
+  },
+  {
+    "objectID": "literature.html#האלפבית-מראשיתו-עד-המאות-העשיריתהתשיעית",
+    "href": "literature.html#האלפבית-מראשיתו-עד-המאות-העשיריתהתשיעית",
+    "title": "ביבליוגרפיה ומקורות",
+    "section": "האלפבית מראשיתו עד המאות העשירית–התשיעית",
+    "text": "האלפבית מראשיתו עד המאות העשירית–התשיעית\n\n*י׳ נוה, ״ראשית האלפבית״, בתוך: ראשית תולדותיו של האלפבית. ירושלים, תשמ״ב, 23–41.\n*ש׳ אחיטוב, ״הכתובות העבריות והמקרא״, בתוך: צ׳ טלשיר (עורכת), ספרות המקרא: מבואות ומחקרים, כרך שני. ירושלים, תשע״א, 471–494.\nRollston, C. 2019. “The Alphabet Comes of Age: The Social Context of Alphabetic Writing in the First Millennium BCE.” In A. Yasur-Landau et al. (eds.), The Social Archaeology of the Levant. Cambridge, 371–389.\nFinkelstein, I., and B. Sass. 2013. “The West Semitic Alphabetic Inscriptions, Late Bronze II to Iron IIA.” Hebrew Bible and Ancient Israel 2: 149–220.\n🆕 *Höflmayer, F., et al. 2021. “Early Alphabetic Writing in the Ancient Near East: The ‘Missing Link’ from Tel Lachish.” Antiquity 95.\n🆕 *Vainstub, D., et al. 2022. “A Canaanite’s Wish to Eradicate Lice on an Inscribed Ivory Comb from Lachish.” Jerusalem Journal of Archaeology 2: 76–119.\n🆕 Schwartz, G. M. 2021. “Non-Cuneiform Writing at Third-Millennium Umm el-Marra, Syria: Evidence of an Early Alphabetic Tradition?” Pasiphae 15."
+  },
+  {
+    "objectID": "literature.html#כתבים-לאומיים-פניקית-עברית-וארמית",
+    "href": "literature.html#כתבים-לאומיים-פניקית-עברית-וארמית",
+    "title": "ביבליוגרפיה ומקורות",
+    "section": "כתבים ״לאומיים״: פניקית, עברית וארמית",
+    "text": "כתבים ״לאומיים״: פניקית, עברית וארמית\n\n*י׳ נוה, ״הכתב השמי מערבי״, בתוך: ראשית תולדותיו של האלפבית. ירושלים, תשמ״ב, 51–121.\n*ש׳ פסברג, ״ארמית ושמאלית״, בתוך: ח׳ רבין, שפות שמיות. ירושלים, תשנ״ג, 78–109."
+  },
+  {
+    "objectID": "literature.html#ראשית-הברזל-ירובעל-וחורבת-קיאפה",
+    "href": "literature.html#ראשית-הברזל-ירובעל-וחורבת-קיאפה",
+    "title": "ביבליוגרפיה ומקורות",
+    "section": "ראשית הברזל: ירובעל וחורבת קיאפה",
+    "text": "ראשית הברזל: ירובעל וחורבת קיאפה\n\n🆕 *Rollston, C., et al. 2021. “The Jerubba‘al Inscription from Khirbet al-Ra‘i: A Proto-Canaanite (Early Alphabetic) Inscription.” Jerusalem Journal of Archaeology 2: 1–15.\nMillard, A. 2011. “The Ostracon from the Days of David Found at Khirbet Qeiyafa.” Tyndale Bulletin 61: 1–13.\nRollston, C. 2011. “The Khirbet Qeiyafa Ostracon: Methodological Musings and Caveats.” Tel Aviv 38(1): 67–82."
+  },
+  {
+    "objectID": "literature.html#שומרון-כונתילת-עגרוד-ירושלים-ערד-לכיש",
+    "href": "literature.html#שומרון-כונתילת-עגרוד-ירושלים-ערד-לכיש",
+    "title": "ביבליוגרפיה ומקורות",
+    "section": "שומרון, כונתילת עג׳רוד, ירושלים, ערד, לכיש",
+    "text": "שומרון, כונתילת עג׳רוד, ירושלים, ערד, לכיש\n\n*ש׳ אחיטוב, הכתב והמכתב: אסופת כתובות מארץ-ישראל ומממלכות עבר הירדן מימי בית-ראשון. ירושלים, תשס״ה: ירושלים 15–50; לכיש 50–81; ערד 82–142; מצד חשביהו וקדש ברנע 143–148; כונתילת עג׳רוד 232–245; שומרון 245–301.\nט׳ ארנן, ש׳ אחיטוב וא׳ אשל. לה׳ תימן ולאשרתו: הכתובות והציורים מכנתילת עג׳רוד (״חורבת תימן״) בסיני. ירושלים, תשע״ו.\n🆕 Langlois, M. 2019. “The Kings, the City and the House of David on the Mesha Stele in Light of New Imaging Techniques.” Semitica 61: 23–47."
+  },
+  {
+    "objectID": "literature.html#חותמות-זיופים-ומה-שביניהם",
+    "href": "literature.html#חותמות-זיופים-ומה-שביניהם",
+    "title": "ביבליוגרפיה ומקורות",
+    "section": "חותמות, זיופים ומה שביניהם",
+    "text": "חותמות, זיופים ומה שביניהם\n\n*ע׳ ליפשיץ, ״טביעות חותם על קנקנים במזרח הקדום״, בתוך: עידן האימפריות. ירושלים, תשע״ח, 23–31.\nנ׳ נאמן, ״התפתחות הכתיבה בכתב אלפביתי בממלכות ישראל ויהודה״, בתוך: העבר המכונן את ההווה. ירושלים, תשס״ב, 13–31.\nRollston, C. A. 2005. “Navigating the Epigraphic Storm: A Palaeographer Reflects on Inscriptions from the Market.” Near Eastern Archaeology 68(1–2): 69–72.\n🆕 Stripling, S., et al. 2023. “‘You Are Cursed by the God YHW’: An Early Hebrew Inscription from Mt. Ebal.” Heritage Science 11: 105.\n🆕 Haughwout, M. 2024. “Mt. Ebal Curse Tablet? A Refutation of the Claims Regarding the So-Called Mt. Ebal Curse Tablet.” Heritage Science 12: 70."
+  },
+  {
+    "objectID": "literature.html#כתיבה-קריאה-ואוריינות-בראי-המאה-ה-21",
+    "href": "literature.html#כתיבה-קריאה-ואוריינות-בראי-המאה-ה-21",
+    "title": "ביבליוגרפיה ומקורות",
+    "section": "כתיבה, קריאה ואוריינות בראי המאה ה-21",
+    "text": "כתיבה, קריאה ואוריינות בראי המאה ה-21\n\n*י׳ כהן, ״כתיבה, קריאה ואוריינות במזרח הקדום״. קתדרה 152: 167–182.\nParker, H. D. D., and C. A. Rollston. 2016. “The Epigraphic Digital Lab: Teaching Epigraphy in the Twenty-First Century C.E.” Near Eastern Archaeology 79(1): 44–56.\n*Faigenbaum-Golovin, S., et al. 2017. “Multispectral Imaging Reveals Biblical-Period Inscription Unnoticed for Half a Century.” PLoS ONE 12(6): e0178400.\n🆕 Faigenbaum-Golovin, S., et al. 2020. “Algorithmic Handwriting Analysis of the Samaria Inscriptions Illuminates Bureaucratic Apparatus in Biblical Israel.” PLoS ONE 15(1): e0227452.\n🆕 Shaus, A., et al. 2020. “Forensic Document Examination and Algorithmic Handwriting Analysis of Judahite Biblical Period Inscriptions Reveal Significant Literacy Level.” PLoS ONE 15(9): e0237962.\n🆕 Popović, M., M. A. Dhali, and L. Schomaker. 2021. “Artificial Intelligence Based Writer Identification Generates New Evidence for the Unknown Scribes of the Dead Sea Scrolls.” PLoS ONE 16(4): e0249769.\n🆕 Popović, M., et al. 2025. “Dating Ancient Manuscripts Using Radiocarbon and AI-Based Writing Style Analysis.” PLoS ONE 20(6): e0323185."
+  },
+  {
+    "objectID": "literature.html#בינה-מלאכותית-וכתובות-עתיקות",
+    "href": "literature.html#בינה-מלאכותית-וכתובות-עתיקות",
+    "title": "ביבליוגרפיה ומקורות",
+    "section": "בינה מלאכותית וכתובות עתיקות",
+    "text": "בינה מלאכותית וכתובות עתיקות\n\n🆕 Assael, Y., T. Sommerschield, et al. 2022. “Restoring and Attributing Ancient Texts Using Deep Neural Networks.” Nature 603: 280–283.\n🆕 Assael, Y., T. Sommerschield, et al. 2025. “Contextualizing Ancient Texts with Generative Neural Networks.” Nature.\n🆕 Sommerschield, T., et al. 2023. “Machine Learning for Ancient Languages: A Survey.” Computational Linguistics 49(3)."
+  },
+  {
+    "objectID": "literature.html#ביבליוגרפיה-כללית",
+    "href": "literature.html#ביבליוגרפיה-כללית",
+    "title": "ביבליוגרפיה ומקורות",
+    "section": "ביבליוגרפיה כללית",
+    "text": "ביבליוגרפיה כללית\n\nAbou-Assaf, A., P. Bordreuil, and A. Millard. 1982. La statue de Tell Fekherye et son inscription bilingue assyro-araméenne. Paris.\nBarr, J. 1968. Comparative Philology and the Text of the Old Testament. Oxford.\nBiran, A., and J. Naveh. 1995. “The Tel Dan Inscription: A New Fragment.” IEJ 45: 1–18.\nDonner, H., and W. Röllig. Kanaanäische und Aramäische Inschriften (KAI). Wiesbaden.\nFitzmyer, J. A. 1995. The Aramaic Inscriptions of Sefire. Rev. ed. Rome.\nFreedman, D. N., A. D. Forbes, and F. I. Andersen. 1992. Studies in Hebrew and Aramaic Orthography. Winona Lake.\nGreenfield, J. C., and B. Porten. 1982. The Bisitun Inscription of Darius the Great: Aramaic Version. London.\nGreenspahn, F. E. 2003. An Introduction to Aramaic. 2nd ed. Atlanta.\nGzella, H., and M. L. Folmer (eds.). 2008. Aramaic in Its Historical and Linguistic Setting. Wiesbaden.\nHoftijzer, J., and K. Jongeling. 1995. Dictionary of the North-West Semitic Inscriptions. Leiden.\nLemaire, A. 2015. Levantine Epigraphy and History in the Achaemenid Period. Oxford.\nLindenberger, J. M. 2003. Ancient Aramaic and Hebrew Letters. 2nd ed. Atlanta.\nPorten, B., and A. Yardeni. 1986–1999. Textbook of Aramaic Documents from Ancient Egypt. Jerusalem.\nSchwiderski, D. 2004–2008. Die alt- und reichsaramäischen Inschriften. Berlin."
+  },
+  {
+    "objectID": "assignments/final-edition.html",
+    "href": "assignments/final-edition.html",
+    "title": "עבודה מסכמת: מהדורה דיגיטלית זעירה",
+    "section": "",
+    "text": "משקל: 70% · בזוגות · רמת AI: 4, והשרטוט ברמה 1 · הגשה סופית: 21/02/27 בחצות\n\n\n\n\nמה זה\nכל זוג מכין מהדורה זעירה של כתובת אחת מתקופת הברזל: בדיוק מה שעושים אפיגרפים כשהם מפרסמים כתובת חדשה. העבודה מתרגלת את המיומנות ״הכנת מהדורות דיגיטליות של טקסטים עתיקים באלפבית״ שבמטרות הקורס.\n\n\nמרכיבי המהדורה\n\nתצלום של הכתובת, עם קרדיט ומקור\nשרטוט ביד של הכתובת (ברמה 1: בלי AI)\nתעתיק ותרגום\nטבלה פליאוגרפית: חמש אותיות מהכתובת לעומת כתובות מתוארכות אחרות\nפרשנות ורקע היסטורי\nקריאת המכונה: נותנים למודל שפה את התצלום, מבקשים ממנו לקרוא ולתרגם, ומנתחים את הטעויות שלו\nיומן AI לפי מדיניות ה-AI\nרפלקציה אישית של כ-300 מילה מכל אחד/ת מבני הזוג\n\n\n\nהיקף ומקורות\n8–10 עמודים לזוג, ולפחות 10 פריטים ביבליוגרפיים, מתוכם לפחות 5 שנלמדו בקורס.\n\n\nשיחת הגנה\nלפני ההגשה הסופית כל זוג נפגש איתי לשיחה של כ-10 דקות בזום, ובה ״קוראים בקול״ את הכתובת ומסבירים את הבחירות שעשו בתעתיק.\n\n\nקריטריונים להערכה\n\nתעתיק, תרגום ופרשנות (30%)\nטבלה פליאוגרפית ושרטוט (20%)\nרקע היסטורי ושימוש במקורות (20%)\nקריאת המכונה ויומן ה-AI (15%)\nשיחת ההגנה והרפלקציה האישית (15%)\n\nהקישור להגשה יפורסם באתר ובמודל."
+  }
+]

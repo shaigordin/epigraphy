@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+<rect width="600" height="600" fill="#eee7dc"/>
+<path d="M90,140 Q160,70 330,90 Q500,95 525,210 Q545,360 470,470 Q360,545 210,510 Q80,470 70,330 Q60,210 90,140 Z" fill="#b9714a"/>
+<g fill="none" stroke="#2a1a12" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<path transform="translate(440,170) scale(0.9)" d="M0,0 L30,0 L30,30 L0,30 M30,15 L42,15"/>
+<path transform="translate(385,170) scale(0.9)" d="M0,30 L20,0 L40,30"/>
+<path transform="translate(325,170) scale(0.9)" d="M0,30 L20,0 L40,30 Z"/>
+<path transform="translate(270,170) scale(0.9)" d="M0,0 L0,40 M30,0 L30,40 M0,13 L30,13 M0,26 L30,26"/>
+<path transform="translate(215,170) scale(0.9)" d="M40,0 L0,0 L0,40 M0,13 L30,13 M0,26 L30,26"/>
+<path transform="translate(149,170) scale(0.9)" d="M0,0 L40,0 M20,0 L20,40 M0,40 L40,40"/>
+<path transform="translate(420,240) scale(0.9)" d="M0,0 L20,20 L40,0 M20,20 L20,45"/>
+<path transform="translate(360,240) scale(0.9)" d="M0,30 L20,0 L40,30"/>
+<path transform="translate(305,240) scale(0.9)" d="M0,0 L20,30 L40,0 M8,12 L32,12"/>
+<path transform="translate(250,240) scale(0.9)" d="M40,0 L0,0 L0,40 M0,13 L30,13 M0,26 L30,26"/>
+<path transform="translate(195,240) scale(0.9)" d="M0,0 L20,20 L40,0 M20,20 L20,45"/>
+<path transform="translate(440,310) scale(0.9)" d="M0,0 L30,0 L30,30 L0,30 M30,15 L42,15"/>
+<path transform="translate(374,310) scale(0.9)" d="M0,30 L20,0 L40,30 Z"/>
+<path transform="translate(314,310) scale(0.9)" d="M0,0 L20,20 L40,0 M20,20 L20,45"/>
+<path transform="translate(254,310) scale(0.9)" d="M0,0 L40,0 M20,0 L20,40 M0,40 L40,40"/>
+<path transform="translate(199,310) scale(0.9)" d="M0,0 L20,30 L40,0 M8,12 L32,12"/>
+<path transform="translate(420,380) scale(0.9)" d="M0,0 L0,40 M30,0 L30,40 M0,13 L30,13 M0,26 L30,26"/>
+<path transform="translate(365,380) scale(0.9)" d="M0,0 L20,20 L40,0 M20,20 L20,45"/>
+<path transform="translate(299,380) scale(0.9)" d="M0,0 L0,40 M30,0 L30,40 M0,13 L30,13 M0,26 L30,26"/>
+<path transform="translate(244,380) scale(0.9)" d="M0,0 L20,20 L40,0 M20,20 L20,45"/>
+<path transform="translate(184,380) scale(0.9)" d="M0,0 L0,40 M30,0 L30,40 M0,13 L30,13 M0,26 L30,26"/>
+</g></svg>
