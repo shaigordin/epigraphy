@@ -6,9 +6,18 @@ title: "ביבליוגרפיה ומקורות"
 
 ## מקורות מקוונים
 
-- [West Semitic Research Project](https://dornsife.usc.edu/wsrp/)
-- [InscriptiFact](https://digitallibrary.usc.edu/Archive/InscriptiFact----an-image-database-of-inscriptions-and-artifacts-2A3BF1OL6PW): מאגר תמונות וטקסטים
-- [Achemenet](http://www.achemenet.com): טקסטים, ארכיאולוגיה ומשאבים מהתקופה האחמנית
+**מאגרי כתובות ותצלומים**
+
+- [West Semitic Research Project](https://dornsife.usc.edu/wsrp/): תצלומים ברזולוציה גבוהה של כתובות שמיות מערביות
+- [הספרייה הדיגיטלית של מגילות ים המלח ע״ש ליאון לוי](https://www.deadseascrolls.org.il): תצלומים רב-ספקטרליים, טוב לתרגול קריאה מתצלום
+- [CDLI](https://cdli.earth): מאגר הכתובות בכתב יתדות, עם תצלומים ותעתיקים
+- [OCIANA](https://ociana.osu.edu): כתובות מצפון חצי האי ערב, עם תעתיק, תרגום וביבליוגרפיה
+
+**כלים ומילונים**
+
+- [Comprehensive Aramaic Lexicon](https://cal.huc.edu): מילון וקורפוס של הארמית, מהכתובות הקדומות ואילך
+- [EpiDoc](https://epidoc.stoa.org/gl/latest/): התקן להכנת מהדורות דיגיטליות של כתובות (רלוונטי לעבודה המסכמת)
+- [Predicting the Past](https://predictingthepast.com): הכלים Ithaca ו-Aeneas, מודלים להשלמה ולתיארוך של כתובות ביוונית ובלטינית (Assael et al. 2022, 2025). טוב לראות איך מכונה ״מנחשת״ אותיות ואיפה היא טועה
 
 ## כתב וכתיבה במזרח התיכון הקדום
 
