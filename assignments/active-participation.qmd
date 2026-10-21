@@ -2,6 +2,14 @@
 title: "השתתפות פעילה"
 ---
 
+```{=html}
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Egyptian+Hieroglyphs&family=Noto+Sans+Phoenician&display=swap');
+.hiero{font-family:'Noto Sans Egyptian Hieroglyphs',sans-serif;font-size:2rem;line-height:1}
+.phoen{font-family:'Noto Sans Phoenician',sans-serif;font-size:2rem;line-height:1}
+</style>
+```
+
 ::: {.callout-note appearance="simple"}
 **משקל:** 30% · **בזוגות** · ארבע פעילויות במודל, בשבועות שבהם אין שיעור.
 :::
@@ -13,12 +21,14 @@ title: "השתתפות פעילה"
 ::: {.callout-tip collapse="true" appearance="simple"}
 ## דוגמה: איך נראה דף מוגמר
 
-חמש שורות על דף אחד. בכל שורה: שלושת השלבים, שם האות ומשפט קצר על מה שהשתנה.
+חמש שורות על דף אחד. בכל שורה: שלושת השלבים, שם האות ומשפט קצר על מה שהשתנה. בדף שלכם כל הסימנים משורטטים ביד; כאן הם מוצגים בגופן ובתמונות כדי להראות את הרעיון.
 
 | הירוגליף | פרוטו-סינאי | פניקי | שם | מה השתנה |
 |:--:|:--:|:--:|---|---|
-| [שרטוט] | [שרטוט] | [שרטוט] | אָלֶף (שור) | ראש השור עם הקרניים הצטמצם לכמה קווים והסתובב על הצד |
-| [שרטוט] | [שרטוט] | [שרטוט] | מֵם (מים) | הקו הגלי של המים התקצר והפך לזיגזג עם ״זנב״ |
+| [𓃾]{.hiero} | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Proto-semiticA-01.svg" width="36" alt="אלף פרוטו-סינאית" onerror="this.replaceWith('(ראו בוויקיפדיה)')"> | [𐤀]{.phoen} | אָלֶף (שור) | ראש השור עם הקרניים הצטמצם לכמה קווים והסתובב על הצד |
+| [𓈖]{.hiero} | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Proto-Canaanite%20letter%20mem.svg" width="36" alt="מם פרוטו-סינאית" onerror="this.replaceWith('(ראו בוויקיפדיה)')"> | [𐤌]{.phoen} | מֵם (מים) | הקו הגלי של המים התקצר והפך לזיגזג עם ״זנב״ |
+
+[התמונות בעמודה הפרוטו-סינאית: Wikimedia Commons, קטגוריית Proto-Canaanite letters. ההירוגליפים והאותיות הפניקיות בגופני Noto.]{.small}
 :::
 
 ### 2. המכונה שמנחשת אותיות (19/11/26) · [5]{.lvl .lvl-5}
