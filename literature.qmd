@@ -30,12 +30,12 @@ title: "ביבליוגרפיה ומקורות"
 ## האלפבית מראשיתו עד המאות העשירית–התשיעית
 
 - \*י׳ נוה, ״ראשית האלפבית״, בתוך: *ראשית תולדותיו של האלפבית*. ירושלים, תשמ״ב, 23–41.
-- \*ש׳ אחיטוב, ״הכתובות העבריות והמקרא״, בתוך: צ׳ טלשיר (עורכת), *ספרות המקרא: מבואות ומחקרים*, כרך שני. ירושלים, תשע״א, 471–494.
+- ש׳ אחיטוב, ״הכתובות העבריות והמקרא״, בתוך: צ׳ טלשיר (עורכת), *ספרות המקרא: מבואות ומחקרים*, כרך שני. ירושלים, תשע״א, 471–494.
 - Rollston, C. 2019. “The Alphabet Comes of Age: The Social Context of Alphabetic Writing in the First Millennium BCE.” In A. Yasur-Landau et al. (eds.), *The Social Archaeology of the Levant*. Cambridge, 371–389. [[למאמר](https://www.cambridge.org/core/books/social-archaeology-of-the-levant/alphabet-comes-of-age/A5D19D40FFC1AB034B7A2FB1BDED1851){target="_blank"}]
 - Finkelstein, I., and B. Sass. 2013. “The West Semitic Alphabetic Inscriptions, Late Bronze II to Iron IIA.” *Hebrew Bible and Ancient Israel* 2: 149–220. [[למאמר](https://doi.org/10.1628/219222713X13757034787838){target="_blank"}]
 - \*Höflmayer, F., et al. 2021. “Early Alphabetic Writing in the Ancient Near East: The ‘Missing Link’ from Tel Lachish.” *Antiquity* 95. [[למאמר](https://doi.org/10.15184/aqy.2020.157){target="_blank"}]
 - \*Vainstub, D., et al. 2022. “A Canaanite’s Wish to Eradicate Lice on an Inscribed Ivory Comb from Lachish.” *Jerusalem Journal of Archaeology* 2: 76–119. [[למאמר](https://doi.org/10.52486/01.00002.4){target="_blank"}]
-- Schwartz, G. M. 2021. “Non-Cuneiform Writing at Third-Millennium Umm el-Marra, Syria: Evidence of an Early Alphabetic Tradition?” *Pasiphae* 15.
+- \*Schwartz, G. M. 2021. “Non-Cuneiform Writing at Third-Millennium Umm el-Marra, Syria: Evidence of an Early Alphabetic Tradition?” *Pasiphae* 15.
 
 ## כתבים ״לאומיים״: פניקית, עברית וארמית
 
@@ -52,31 +52,31 @@ title: "ביבליוגרפיה ומקורות"
 
 - \*ש׳ אחיטוב, *הכתב והמכתב: אסופת כתובות מארץ-ישראל ומממלכות עבר הירדן מימי בית-ראשון*. ירושלים, תשס״ה: ירושלים 15–50; לכיש 50–81; ערד 82–142; מצד חשביהו וקדש ברנע 143–148; כונתילת עג׳רוד 232–245; שומרון 245–301.
 - ט׳ ארנן, ש׳ אחיטוב וא׳ אשל. *לה׳ תימן ולאשרתו: הכתובות והציורים מכנתילת עג׳רוד (״חורבת תימן״) בסיני*. ירושלים, תשע״ו.
-- Langlois, M. 2019. “The Kings, the City and the House of David on the Mesha Stele in Light of New Imaging Techniques.” *Semitica* 61: 23–47. [[למאמר](https://michaellanglois.fr/medias/langlois-2019-the-kings-the-city-and-the-house-of-david-on-the-mesha-stele-semitica-61-p--23-47.pdf){target="_blank"}]
+- \*Langlois, M. 2019. “The Kings, the City and the House of David on the Mesha Stele in Light of New Imaging Techniques.” *Semitica* 61: 23–47. [[למאמר](https://michaellanglois.fr/medias/langlois-2019-the-kings-the-city-and-the-house-of-david-on-the-mesha-stele-semitica-61-p--23-47.pdf){target="_blank"}]
 
 ## חותמות, זיופים ומה שביניהם
 
-- \*ע׳ ליפשיץ, ״טביעות חותם על קנקנים במזרח הקדום״, בתוך: *עידן האימפריות*. ירושלים, תשע״ח, 23–31.
+- ע׳ ליפשיץ, ״טביעות חותם על קנקנים במזרח הקדום״, בתוך: *עידן האימפריות*. ירושלים, תשע״ח, 23–31.
 - נ׳ נאמן, ״התפתחות הכתיבה בכתב אלפביתי בממלכות ישראל ויהודה״, בתוך: *העבר המכונן את ההווה*. ירושלים, תשס״ב, 13–31.
-- Rollston, C. A. 2005. “Navigating the Epigraphic Storm: A Palaeographer Reflects on Inscriptions from the Market.” *Near Eastern Archaeology* 68(1–2): 69–72.
-- Stripling, S., et al. 2023. “‘You Are Cursed by the God YHW’: An Early Hebrew Inscription from Mt. Ebal.” *Heritage Science* 11: 105. [[למאמר](https://doi.org/10.1186/s40494-023-00920-9){target="_blank"}]
-- Haughwout, M. 2024. “Mt. Ebal Curse Tablet? A Refutation of the Claims Regarding the So-Called Mt. Ebal Curse Tablet.” *Heritage Science* 12. [[למאמר](https://doi.org/10.1186/s40494-023-01130-z){target="_blank"}]
+- \*Rollston, C. A. 2005. “Navigating the Epigraphic Storm: A Palaeographer Reflects on Inscriptions from the Market.” *Near Eastern Archaeology* 68(1–2): 69–72.
+- \*Stripling, S., et al. 2023. “‘You Are Cursed by the God YHW’: An Early Hebrew Inscription from Mt. Ebal.” *Heritage Science* 11: 105. [[למאמר](https://doi.org/10.1186/s40494-023-00920-9){target="_blank"}]
+- \*Haughwout, M. 2024. “Mt. Ebal Curse Tablet? A Refutation of the Claims Regarding the So-Called Mt. Ebal Curse Tablet.” *Heritage Science* 12. [[למאמר](https://doi.org/10.1186/s40494-023-01130-z){target="_blank"}]
 
 ## כתיבה, קריאה ואוריינות בראי המאה ה-21
 
 - \*י׳ כהן, ״כתיבה, קריאה ואוריינות במזרח הקדום״. *קתדרה* 152: 167–182.
 - Parker, H. D. D., and C. A. Rollston. 2016. “The Epigraphic Digital Lab: Teaching Epigraphy in the Twenty-First Century C.E.” *Near Eastern Archaeology* 79(1): 44–56.
-- \*Faigenbaum-Golovin, S., et al. 2017. “Multispectral Imaging Reveals Biblical-Period Inscription Unnoticed for Half a Century.” *PLoS ONE* 12(6): e0178400. [[למאמר](https://doi.org/10.1371/journal.pone.0178400){target="_blank"}]
-- Faigenbaum-Golovin, S., et al. 2020. “Algorithmic Handwriting Analysis of the Samaria Inscriptions Illuminates Bureaucratic Apparatus in Biblical Israel.” *PLoS ONE* 15(1): e0227452. [[למאמר](https://doi.org/10.1371/journal.pone.0227452){target="_blank"}]
-- Shaus, A., et al. 2020. “Forensic Document Examination and Algorithmic Handwriting Analysis of Judahite Biblical Period Inscriptions Reveal Significant Literacy Level.” *PLoS ONE* 15(9): e0237962. [[למאמר](https://doi.org/10.1371/journal.pone.0237962){target="_blank"}]
+- Faigenbaum-Golovin, S., et al. 2017. “Multispectral Imaging Reveals Biblical-Period Inscription Unnoticed for Half a Century.” *PLoS ONE* 12(6): e0178400. [[למאמר](https://doi.org/10.1371/journal.pone.0178400){target="_blank"}]
+- \*Faigenbaum-Golovin, S., et al. 2020. “Algorithmic Handwriting Analysis of the Samaria Inscriptions Illuminates Bureaucratic Apparatus in Biblical Israel.” *PLoS ONE* 15(1): e0227452. [[למאמר](https://doi.org/10.1371/journal.pone.0227452){target="_blank"}]
+- \*Shaus, A., et al. 2020. “Forensic Document Examination and Algorithmic Handwriting Analysis of Judahite Biblical Period Inscriptions Reveal Significant Literacy Level.” *PLoS ONE* 15(9): e0237962. [[למאמר](https://doi.org/10.1371/journal.pone.0237962){target="_blank"}]
 - Popović, M., M. A. Dhali, and L. Schomaker. 2021. “Artificial Intelligence Based Writer Identification Generates New Evidence for the Unknown Scribes of the Dead Sea Scrolls.” *PLoS ONE* 16(4): e0249769. [[למאמר](https://doi.org/10.1371/journal.pone.0249769){target="_blank"}]
 - Popović, M., et al. 2025. “Dating Ancient Manuscripts Using Radiocarbon and AI-Based Writing Style Analysis.” *PLoS ONE* 20(6): e0323185. [[למאמר](https://doi.org/10.1371/journal.pone.0323185){target="_blank"}]
 
 ## בינה מלאכותית וכתובות עתיקות
 
-- Assael, Y., T. Sommerschield, et al. 2022. “Restoring and Attributing Ancient Texts Using Deep Neural Networks.” *Nature* 603: 280–283. [[למאמר](https://doi.org/10.1038/s41586-022-04448-z){target="_blank"}]
+- \*Assael, Y., T. Sommerschield, et al. 2022. “Restoring and Attributing Ancient Texts Using Deep Neural Networks.” *Nature* 603: 280–283. [[למאמר](https://doi.org/10.1038/s41586-022-04448-z){target="_blank"}]
 - Assael, Y., T. Sommerschield, et al. 2025. “Contextualizing Ancient Texts with Generative Neural Networks.” *Nature* 645: 141–147. [[למאמר](https://doi.org/10.1038/s41586-025-09292-5){target="_blank"}]
-- Sommerschield, T., et al. 2023. “Machine Learning for Ancient Languages: A Survey.” *Computational Linguistics* 49(3): 703–747. [[למאמר](https://doi.org/10.1162/coli_a_00481){target="_blank"}]
+- \*Sommerschield, T., et al. 2023. “Machine Learning for Ancient Languages: A Survey.” *Computational Linguistics* 49(3): 703–747. [[למאמר](https://doi.org/10.1162/coli_a_00481){target="_blank"}]
 
 ## ביבליוגרפיה כללית
 
