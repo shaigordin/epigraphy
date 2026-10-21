@@ -8,7 +8,7 @@ title: "השתתפות פעילה"
 
 ### 1. כתב וכתיבה במזרח הקדום (05/11/26) · [1]{.lvl .lvl-1}
 
-משרטטים ביד את ההתפתחות של חמש אותיות: מהסימן ההירוגליפי המצרי, דרך הכתב הפרוטו-סינאי, ועד האות הפניקית. מעלים צילום של הדף. בלי כלי AI ובלי העתקה מתמונה.
+משרטטים ביד את ההתפתחות של חמש אותיות: מהסימן ההירוגליפי המצרי, דרך הכתב הפרוטו-סינאי, ועד האות הפניקית. מעלים צילום של הדף. בלי כלי AI ובלי העתקה מתמונה. חומר עזר: [Goldwasser 2010](https://drive.google.com/file/d/14B4Fq299hne-lFu5tztgiMef7b4oNbO7/view?usp=sharing){target="_blank"} והטבלה בערך [Proto-Sinaitic script](https://en.wikipedia.org/wiki/Proto-Sinaitic_script){target="_blank"} בוויקיפדיה.
 
 ::: {.callout-tip collapse="true" appearance="simple"}
 ## דוגמה: איך נראה דף מוגמר
